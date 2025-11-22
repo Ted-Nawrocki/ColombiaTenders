@@ -1,5 +1,3 @@
-# ColombiaTenders
-A summary of the Republic of Colombia's liability management program 2025
 <!DOCTYPE html>
 <html lang="en">
 <head>
